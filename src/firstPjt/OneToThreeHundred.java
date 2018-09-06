@@ -1,6 +1,6 @@
 package firstPjt;
 
-public class oneToThreeHundred {
+public class OneToThreeHundred {
 
 	public static void main(String[] args) {
 		int num = 1;
